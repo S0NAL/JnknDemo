@@ -95,6 +95,9 @@
   </ItemGroup>
   <ItemGroup>
     <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\kixie.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\kixie.imageset\Kixie.jpg" />
+    <ImageAsset Include="Resources\Images.xcassets\kixie.imageset\Kixie%402x.jpg" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.xib" />
